@@ -1,14 +1,19 @@
 # Change Log
 
-## [1.0.1] 2022-12-21
-### Changes
-
-- Bump UI Version
-  - [Django Berry](https://github.com/app-generator/django-admin-berry) `v1.0.5`
-
-## [1.0.0] 2022-12-21
+## [1.0.2] 2022-11-25
 ### Changes
 
 - Deployment-ready for Render
   - `render.yaml` 
-- Integrate [Django Berry](https://github.com/app-generator/django-admin-berry)
+
+## [1.0.1] 2022-11-25
+### Changes
+
+- DOCS Update (README)
+
+## [1.0.0] 2022-11-25
+### Initial Release
+
+- Integrate [Django Admin Material](https://github.com/app-generator/django-admin-material-dashboard)
+- Integrate all pages for `Django.contrib.AUTH`
+- Integrate all theme links
