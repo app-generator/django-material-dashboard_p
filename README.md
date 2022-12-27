@@ -1,4 +1,4 @@
-# [Django Material Dashboard](https://github.com/app-generator/django-admin-material-dashboard) `playground`
+# [Django Material Dashboard](https://github.com/app-generator/django-admin-material-dashboard)
 
 Open-source **Django** project crafted on top of **Material Dashboard**, an open-source `Boostrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Material Material` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
@@ -88,4 +88,4 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 <br />
 
 ---
-[Django Admin Material](https://github.com/app-generator/django-admin-material-dashboard) `playground` - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Admin Material](https://github.com/app-generator/django-admin-material-dashboard) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
