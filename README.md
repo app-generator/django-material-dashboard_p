@@ -7,6 +7,8 @@ The product is designed to deliver the best possible user experience with highly
 - 🛒 **[Django Material PRO](https://github.com/app-generator/django-material-dashboard-pro)** - `Premium Version`
 - 🚀 Free [Support](https://appseed.us/support/) via `Email` & `Discord`
 
+<br />
+
 > Features: 
 
 - ✅ `Up-to-date Dependencies`
