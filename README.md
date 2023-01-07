@@ -1,10 +1,10 @@
-# [Django Material Dashboard](https://github.com/app-generator/django-admin-material-dashboard)
+# [Django Material Dashboard](https://appseed.us/product/material-dashboard/django/)
 
 Open-source **Django** project crafted on top of **Material Dashboard**, an open-source `Boostrap 5` design from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Material Material` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
+- 👉 [Django Material Dashboard](https://appseed.us/product/material-dashboard/django/) - `Product page`
 - 👉 [Django Material Dashboard](https://django-material-dashboard.onrender.com) - `LIVE Demo`
-- 🛒 **[Django Material PRO](https://github.com/app-generator/django-material-dashboard-pro)** - `Premium Version`
 - 🚀 Free [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
@@ -29,8 +29,8 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-admin-material-dashboard_p.git
-$ cd django-admin-material-dashboard_p
+$ git clone https://github.com/app-generator/django-material-dashboard.git
+$ cd django-material-dashboard
 ```
 
 <br />
@@ -91,4 +91,4 @@ This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bo
 <br />
 
 ---
-[Django Admin Material](https://github.com/app-generator/django-admin-material-dashboard) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Material Dashboard](https://appseed.us/product/material-dashboard/django/) - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
